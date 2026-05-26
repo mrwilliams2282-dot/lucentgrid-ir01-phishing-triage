@@ -93,7 +93,16 @@ A `whois` lookup against the attacker infrastructure via the tactical console re
 ## 📷 Case Evidence Artifacts
 Below are the raw image logs extracted during the tactical triage investigation. *Click any link to view the high-resolution upload directly:*
 
-*   [View Artifact 01 - Email Triage](01_email_triage.png) | [View Artifact 02 - Header Analysis](02_header_analyzer.png) | [View Artifact 03 - Full Headers](03_full_headers.png) | [View Artifact 04 - Final Report](04_final_report.png)  
+*   ---
+
+## 📷 Case Evidence Artifacts
+Select any link below to view the high-resolution evidence logs:
+
+* 🖼️ **[Artifact 01: Full Header Overview](IMG20260526150058.png)**
+* 🖼️ **[Artifact 02: Base Email Triage](IMG20260526150142.png)**
+* 🖼️ **[Artifact 03: Header Telemetry](IMG20260526150233.png)**
+* 🖼️ **[Artifact 04: Gateway Transport Details](IMG20260526150240.png)**
+
 
 
 ---
