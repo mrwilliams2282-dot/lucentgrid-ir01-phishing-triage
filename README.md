@@ -89,29 +89,18 @@ A `whois` lookup against the attacker infrastructure via the tactical console re
 
 ---
 
+
 ## 📷 Case Evidence Artifacts
-Below are the raw image logs extracted during the tactical triage investigation:
+Below are the raw image logs extracted during the tactical triage investigation. *Click any link to view the high-resolution upload directly:*
 
-#### Artifact 01: Email Transport Headers
-![Evidence 01](IMG20260526141513.heic)
+* 📄 **[Artifact 01: Email Transport Headers](IMG20260526141513.heic)**
+* 📄 **[Artifact 02: Inbound Gateway Verification](IMG20260526141533.heic)**
+* 📄 **[Artifact 03: Threat Intelligence Verification Data](IMG20260526141543.heic)**
+* 📄 **[Artifact 04: Domain WHOIS Infrastructure Audit](IMG20260526141558.heic)**
+* 📄 **[Artifact 05: Targeted Tracking Parameter Isolation](IMG20260526141607.heic)**
+* 📄 **[Artifact 06: Decoupled URL Sandbox Environment](IMG20260526141611.heic)**
+* 📄 **[Artifact 07: Verified True Positive Incident Ticket](IMG20260526141647.heic)**
 
-#### Artifact 02: Inbound Gateway Verification
-![Evidence 02](IMG20260526141533.heic)
-
-#### Artifact 03: Threat Intelligence Verification Data
-![Evidence 03](IMG20260526141543.heic)
-
-#### Artifact 04: Domain WHOIS Infrastructure Audit
-![Evidence 04](IMG20260526141558.heic)
-
-#### Artifact 05: Targeted Tracking Parameter Isolation
-![Evidence 05](IMG20260526141607.heic)
-
-#### Artifact 06: Decoupled URL Sandbox Environment
-![Evidence 06](IMG20260526141611.heic)
-
-#### Artifact 07: Verified True Positive Incident Ticket
-![Evidence 07](IMG20260526141647.heic)
 
 ---
 
